@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ppgplot
+Source: https://github.com/npat-efault/ppgplot
+
+Files: *
+Copyright: 2011 Nick Patavalis
+License: LGPL
+
+Files: debian/*
+Copyright: 2017 SBourke <s.bourke5@gmail.com>
+License: MIT
