@@ -1,3 +1,9 @@
+ppgplot (1.4-1kern1bionic1) bionic; urgency=medium
+
+  * Upload to KERN-dev
+
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 25 Apr 2018 15:21:53 +0200
+
 ppgplot (1.4-1kern1xenial1) xenial; urgency=medium
 
   * Initial release
