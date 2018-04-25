@@ -1,5 +1,6 @@
-ppgplot (1.4-1kern1) xenial bionic; urgency=medium
+ppgplot (1.4-1kern1xenial1) xenial; urgency=medium
 
   * Initial release
+  * Upload to KERN-3
 
- -- SBourke <s.bourke5@gmail.com>  Fri, 20 Apr 2017 16:05:22 +0200
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 25 Apr 2018 15:20:04 +0200
